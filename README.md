@@ -1,4 +1,6 @@
-# 🛡 GarudaVanguard
+<p align="center">
+  <img src="images/banner.png" alt="GarudaVanguard Banner">
+</p>
 
 GarudaVanguard is an open-source Linux Security Hardening Assessment Framework designed to help security engineers, system administrators, and blue teams assess Linux systems against selected CIS Linux Benchmark recommendations and security hardening best practices.
 
